@@ -1774,7 +1774,7 @@
     "sideBarTitle.foreground": "#bbbbbb",
     "list.inactiveSelectionBackground": "#5d6c9c",
     "list.inactiveSelectionForeground": "#cccccc",
-    "list.hoverBackground": "#5d6c9c",
+    "list.hoverBackground": "#757575",
     "list.hoverForeground": "#cccccc",
     "list.activeSelectionBackground": "#6272a5",
     "list.activeSelectionForeground": "#ffffff",
