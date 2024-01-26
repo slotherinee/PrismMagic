@@ -4,6 +4,10 @@
   "description": "Vscode theme based on Prism.js style theme",
   "version": "0.0.1",
   "publisher": "PrismMagicTheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slotherinee/PrismMagic/"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
