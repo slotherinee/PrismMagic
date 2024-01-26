@@ -1,0 +1,22 @@
+{
+  "name": "PrismMagic",
+  "displayName": "PrismMagic",
+  "description": "Vscode theme based on Prism.js style theme",
+  "version": "0.0.1",
+  "publisher": "PrismMagicTheme",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PrismMagic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PrismMagic-color-theme.json"
+      }
+    ]
+  }
+}
