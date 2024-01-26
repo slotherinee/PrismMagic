@@ -2,7 +2,7 @@
   "name": "PrismMagic",
   "displayName": "PrismMagic",
   "description": "Vscode theme based on Prism.js style theme",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "PrismMagicTheme",
   "repository": {
     "type": "git",

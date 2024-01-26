@@ -1757,7 +1757,7 @@
     }
   ],
   "colors": {
-    "foreground": "#6272a5",
+    "foreground": "#ffffff",
     "focusBorder": "#6272a5",
     "selection.background": "#6272a5",
     "scrollbar.shadow": "#000000",
