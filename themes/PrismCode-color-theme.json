@@ -1854,7 +1854,7 @@
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#6272a5",
-    "sideBar.background": "#282a36e6",
+    "sideBar.background": "#2b2d38",
     "sideBar.foreground": "#cccccc",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#cccccc",
