@@ -1,9 +1,9 @@
 {
-  "name": "PrismMagic",
-  "displayName": "PrismMagic",
+  "name": "PrismCode",
+  "displayName": "Prism Code",
   "description": "Vscode theme based on Prism.js style theme",
-  "version": "0.8.0",
-  "publisher": "PrismMagicTheme",
+  "version": "0.9.0",
+  "publisher": "prismmagictheme",
   "repository": {
     "type": "git",
     "url": "https://github.com/slotherinee/PrismMagic/"
@@ -11,13 +11,29 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "keywords": [
+    "prism",
+    "prism.js",
+    "prism-theme",
+    "prism-theme",
+    "prism-magic",
+    "prism-magic-theme",
+    "prism-magic-vscode",
+    "prism-magic-vscode-theme",
+    "prism-code",
+    "prism-code-theme",
+    "prism-code-vscode",
+    "prism-code-vscode-theme",
+    "prism code",
+    "Prism Code"
+  ],
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "PrismMagic",
+        "label": "Prism Code",
         "uiTheme": "vs-dark",
         "path": "./themes/PrismMagic-color-theme.json"
       }
