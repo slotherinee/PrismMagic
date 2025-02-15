@@ -2,7 +2,7 @@
   "name": "PrismCode",
   "displayName": "Prism Code",
   "description": "Vscode theme based on Prism.js style theme",
-  "version": "0.9.6",
+  "version": "0.9.10",
   "icon": "icon.png",
   "publisher": "prismmagictheme",
   "repository": {
