@@ -2,7 +2,7 @@
   "name": "PrismCode",
   "displayName": "Prism Code",
   "description": "Vscode theme based on Prism.js style theme",
-  "version": "0.9.10",
+  "version": "1.0.0",
   "icon": "icon.png",
   "publisher": "prismmagictheme",
   "repository": {
@@ -16,7 +16,6 @@
     "prism",
     "prism.js",
     "prism-theme",
-    "prism-theme",
     "prism-magic",
     "prism-magic-theme",
     "prism-magic-vscode",
@@ -26,7 +25,25 @@
     "prism-code-vscode",
     "prism-code-vscode-theme",
     "prism code",
-    "Prism Code"
+    "Prism Code",
+    "Palenight",
+    "pale night",
+    "deep ocean",
+    "ocean",
+    "dark",
+    "dark theme",
+    "code highlighting",
+    "code",
+    "javascript",
+    "typescript",
+    "editor theme",
+    "editor",
+    "development",
+    "developer",
+    "beautiful theme",
+    "modern theme",
+    "html",
+    "css"
   ],
   "categories": [
     "Themes"
@@ -34,9 +51,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Prism Code",
+        "label": "Prism Code Deep Ocean",
         "uiTheme": "vs-dark",
-        "path": "./themes/PrismCode-color-theme.json"
+        "path": "./themes/PrismCode-deep-ocean-color-theme.json"
+      },
+      {
+        "label": "Prism Code Palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PrismCode-palenight-color-theme.json"
       }
     ]
   }
